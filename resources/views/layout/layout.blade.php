@@ -193,7 +193,7 @@
             </nav>
         </header>
     </main>
-
+hola
     @yield('contenido')
 </body>
 
